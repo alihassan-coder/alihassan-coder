@@ -13,6 +13,8 @@
 
 💬 Let's **collaborate** on innovative projects and bring creative ideas to life!  
 
+🌍 **Portfolio:** [Ali Hassan Developer](https://alihassandeveloper.netlify.app/)  
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -70,7 +72,7 @@
 ---
 
 ## 📬 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ali-hassan-salman-49420a332)  
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://alihassandeveloper.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-hassan-salman-49420a332)  
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)  
 
 ⭐ **Feel free to check out my repositories and star them!**  
