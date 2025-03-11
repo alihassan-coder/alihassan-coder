@@ -73,6 +73,6 @@
 
 ## 📬 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-hassan-salman-49420a332)  
-[![Websit link](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://alihassandeveloper.netlify.app/)  
+[![Website link](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=netlify)](https://alihassandeveloper.netlify.app/)  
 
 ⭐ **Feel free to check out my repositories and star them!**  
