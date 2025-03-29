@@ -76,3 +76,7 @@
 [![Website link](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=netlify)](https://alihassandeveloper.netlify.app/)  
 
 ⭐ **Feel free to check out my repositories and star them!**  
+⭐ **I’m always open to collaborating on exciting projects!**
+⭐ **Let's build something amazing together!**
+⭐ **Thank you for visiting my profile!**
+⭐ **Have a great day!**
