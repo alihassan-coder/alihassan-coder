@@ -65,12 +65,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AliHassan&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHassan&layout=compact&theme=radical&langs_count=3&hide=css,html)  
-
----
-
 ## 📬 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-hassan-salman-49420a332)  
 [![Website link](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=netlify)](https://alihassandeveloper.netlify.app/)  
