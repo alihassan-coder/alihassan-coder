@@ -16,7 +16,7 @@
 ```python
 class AliHassan:
 
-    role = "Applied AI Engineer"
+    role = "AI Engineer"
     experience = "2 years shipping AI products to real users"
 
     focus = [
@@ -40,9 +40,9 @@ class AliHassan:
 
 ---
 
-## Project Pipeline
+## Project
 
-Systems I have shipped — and what's coming next. This table only grows.
+Systems I have shipped  and what's coming next. This table only grows.
 
 | Status | System | What it proves |
 |:---:|---|---|
