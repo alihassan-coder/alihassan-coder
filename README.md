@@ -2,7 +2,7 @@
 
 # Ali Hassan
 
-### Applied AI Engineer
+### AI Engineer
 
 *I don't just use AI — I architect systems where agents reason, decide, and act.*
 
