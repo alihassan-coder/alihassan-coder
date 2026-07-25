@@ -1,76 +1,67 @@
-# 👋 Hi, I'm Ali Hassan  
+<div align="center">
 
-## 🚀 Full-Stack Developer | AI & Data Science Enthusiast  
+# Ali Hassan
 
----
+### Applied AI Engineer
 
-## 📝 About Me  
-💡 I am a passionate **Full-Stack Developer** and an aspiring **AI & Data Science expert**, currently honing my skills at **Saylani Mass IT Training (SMIT)**. With a deep love for **technology, problem-solving, and innovation**, I thrive on building **efficient, scalable, and impactful applications**.  
+*I don't just use AI — I architect systems where agents reason, decide, and act.*
 
-🔍 I specialize in crafting **seamless user experiences, powerful backend solutions, and data-driven applications**. My expertise spans across modern frontend libraries, robust backend frameworks, and efficient databases.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-alihassan--dev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alihassan-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hassan-salman-49420a332)
 
-🚀 I believe in continuous learning, staying up-to-date with the latest trends in technology, and contributing to open-source projects.  
-
-💬 Let's **collaborate** on innovative projects and bring creative ideas to life!  
-
-🌍 **Portfolio:** [Ali Hassan Developer](https://alihassandeveloper.netlify.app/)  
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
+```python
+class AliHassan:
 
-### 🌐 Frontend Development  
-<p align="left">  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />  
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />  
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />  
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />  
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />  
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />  
-</p>  
+    role = "Applied AI Engineer"
+    experience = "2 years shipping AI products to real users"
 
-### 🖥️ Backend Development  
-<p align="left">  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />  
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />  
-</p>  
+    focus = [
+        "Multi-agent systems",
+        "MCP servers & AI tool integrations",
+        "RAG pipelines",
+        "AI-driven automation",
+    ]
 
-### 📊 Databases  
-<p align="left">  
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />  
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />  
-</p>  
+    stack = {
+        "agents":   ["LangGraph", "LangChain", "OpenAI Agents SDK", "MCP"],
+        "backend":  ["Python", "FastAPI", "PostgreSQL", "MongoDB"],
+        "vectors":  ["FAISS", "Chroma", "Pinecone", "Weaviate"],
+        "frontend": ["Next.js", "TypeScript", "Tailwind CSS"],
+    }
 
-### 🧠 AI & Machine Learning  
-<p align="left">  
-<img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />  
-<img src="https://img.shields.io/badge/DeepSeek-AI-blue?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek AI" />  
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />  
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />  
-</p>  
+    philosophy = "A demo impresses. A deployed system delivers."
 
-### 🛠️ DevOps & Tools  
-<p align="left">  
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />  
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />  
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />  
-<img src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />  
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />  
-<img src="https://img.shields.io/badge/Cursor_AI-222222?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI" />  
-</p>  
+    status = "Open to full-time roles, contract work & AI collaborations"
+```
 
 ---
 
-## 📬 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-hassan-salman-49420a332)  
-[![Website link](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=netlify)](https://alihassandeveloper.netlify.app/)  
+## Project Pipeline
 
-⭐ **Feel free to check out my repositories and star them!**  
-⭐ **I’m always open to collaborating on exciting projects!**
-⭐ **Let's build something amazing together!**
-⭐ **Thank you for visiting my profile!**
-⭐ **Have a great day!**
+Systems I have shipped — and what's coming next. This table only grows.
+
+| Status | System | What it proves |
+|:---:|---|---|
+| Shipped | [**Video Verification Pipeline**](https://github.com/alihassan-coder/video-verification-pipeline) | Multi-stage AI pipeline: OpenCV, OCR, and LLM reasoning working together to verify screen recordings. |
+| Shipped | [**Database Agent**](https://github.com/alihassan-coder/Database-Agent-Backend-FastAPI) | Natural language converted into real database operations — an agent with write access and the guardrails to deserve it. |
+| Shipped | [**FlyZone Sky Explorer**](https://github.com/alihassan-coder/flyzone-sky-explorer) | Full-stack AI airline assistant: flight booking, FAQs, and support. FastAPI, MongoDB, and an agentic UX. |
+| Shipped | [**LangGraph Lab**](https://github.com/alihassan-coder/langgraph-concepts-projects) | A public collection of stateful multi-agent patterns — from fundamentals to production-ready designs. |
+| In progress | **Next system loading** | New projects are added here as they ship. |
+
+---
+
+<div align="center">
+
+## Let's build something that ships
+
+Open to **full-time roles** · **contract work** · **AI collaborations**
+
+**[alihassan-dev.vercel.app](https://alihassan-dev.vercel.app)**
+
+<sub>*I'd rather build something useful with you than keep a long list of buzzwords.*</sub>
+
+</div>
